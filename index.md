@@ -35,3 +35,7 @@ The layout of each map and tips for defeating them.
 # [Tips and Tricks](./tips-and-tricks)
 
 Various hints for how to get better at the game.
+
+# [mechanics](./mechanics)
+
+Phasmophobia Mechanics...ish
