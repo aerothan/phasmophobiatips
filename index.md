@@ -36,6 +36,6 @@ The layout of each map and tips for defeating them.
 
 Various hints for how to get better at the game.
 
-# [mechanics](./mechanics)
+# [Mechanics](./mechanics)
 
 Phasmophobia Mechanics...ish
